@@ -1,5 +1,4 @@
-# Wélliton de Souza
-I am PhD student at [University of Campinas, Brazil](http://www.unicamp.br/) with expertise in bioinformatics and high-performance computing.
+I am PhD student at [University of Campinas, Brazil](http://www.unicamp.br/) with expertise in bioinformatics, data analyses, software development, and high-performance computing.
 
 ## Contact Information
 - [GitHub](https://github.com/wdesouza)
