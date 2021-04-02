@@ -1,6 +1,6 @@
 I am PhD in Sciences working with bioinformatics, high-throughput sequencing data analysis and systems development for high-performance computing environments.
 
-I currently held a Technical Training scholarship at Laboratory of Molecular Genetics, Department of Translational Medicine, School of Medical Sciences at the University of Campinas (Brazil), located at Laboratory of Biostatistics and Computacional Biology (http://bcblab.org/). I also collaborate with the Brazilian Initiative on Precision Medicine (https://bipmed.org/).
+I currently held a Technical Training scholarship at the Laboratory of Biostatistics and Computational Biology ([BCBLab](https://github.com/labbcb)), University of Campinas, Brazil. I also collaborate with the Brazilian Initiative on Precision Medicine ([BIPMed](https://bipmed.org/)).
 
 ## Contact Information
 
@@ -8,6 +8,10 @@ I currently held a Technical Training scholarship at Laboratory of Molecular Gen
 - [LinkedIn](https://www.linkedin.com/in/wellitonsouza/)
 - [Google Scholar](https://scholar.google.co.uk/citations?user=ypwuIqUAAAAJ)
 - [Lattes](http://lattes.cnpq.br/1630790974761077)
+
+## Work experience
+
+- [2021 - present] Technical Training Program, Laboratory of Molecular Genetics, Department of Translational Medicine, School of Medical Sciences, University of Campinas.
 
 ## Education Background
 
